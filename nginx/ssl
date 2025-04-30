@@ -1,0 +1,2 @@
+ln -s /etc/letsencrypt/live/teachmeumb.it.com/fullchain.pem ssl/cert.pem
+ln -s /etc/letsencrypt/live/teachmeumb.it.com/privkey.pem ssl/key.pem
